@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## AWS Hosted link:
+
+http://webserver-meetup-app.s3-website.us-east-2.amazonaws.com
+
 ## Available Scripts
 
 In the project directory, you can run:
